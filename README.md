@@ -8,7 +8,7 @@ npm run start
 step3:
 change github username in src/service/index.js
 
-Optional part : add comment, I tried but api is not working but ui is done
+Optional part : post comment, I tried but api is not working but ui is done
 
 
 Example pages for quick testing:
