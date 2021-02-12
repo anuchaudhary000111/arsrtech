@@ -8,7 +8,6 @@ npm run start
 step3:
 change github username in src/service/index.js
 
-Notes:
 Optional part : add comment, I tried but api is not working but ui is done
 
 
